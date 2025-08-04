@@ -1,0 +1,40 @@
+
+
+
+1、Oracle (数据库)-->实例--> 用户--> 表空间--> 数据文件（表）
+2、安装Oracle客户端软件（设置用户和密码，生成sys和system用户，以及存储路径）
+	-->下载pl/sql第三方开发工具
+	-->登录用户（用户、密码、数据库IP地址）
+3、用户管理：
+	创建用户-->授权（系统权限和对象权限）
+4、表管理：
+	建表-->增删改查等语句
+5、SQL语句
+	建表语句：create table 表 （列 type。。。）；
+	删表语句： drop table 表；
+	查询语句： select * from 表；
+	插入语句： insert into 表 （列...） values （值...）；
+	删除语句： delete from 表 where 列=值；
+	更新语句： update 表 set 列=值。。。where 列=值；
+	增加字段： alter table 表 add （列  type...）;
+	修改字段长度： alter table 表 modify（列  type...）;
+	修改日期模式：alter  session set nls_date_format = 'yyyy-mm-dd';
+	插入空值： insert into 表 （列）values（null）；
+	添加主键约束： alter table 表 add constraint 键名 primary key (key名)；
+	表复制语句： insert into 表1 （列，列）select 表2列，表2列 from 表2；
+	取消重复行： select distinct 列 from 表；
+	排序：order by 默认升序， order by 列 desc 为降序；
+	分组统计： group by;
+	限制分组显示结果： having；eg:select avg(sal), depno from 表  group by depno having avg(sal)>1000
+	建表快捷方式： create table 新表 (name ,id)as select name,stuid from 旧表； 	
+	截取日期:select  extract (year from sysdate) year, extract (month from sysdate) month, extract (day from sysdate) day from  dual;
+	rank()over()排名语法：rank() over (order by 排序字段 顺序)
+			    rank() over (partition by 分组字段 order by 排序字段 顺序)
+
+
+
+6、；
+
+
+
+
