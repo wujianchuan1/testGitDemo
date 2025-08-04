@@ -1,0 +1,149 @@
+
+
+1、listView（dataSource/）:  https://www.jianshu.com/p/1293bb8ac969;
+				https://www.jianshu.com/p/67e6c06b8be9
+2、navigation: https://www.jianshu.com/p/2f575cc35780
+
+3、ref使用：https://segmentfault.com/a/1190000008665915
+
+5、react prop-types的使用讲解：https://blog.csdn.net/sjpeter/article/details/81079619
+
+6、react-amap: https://www.jianshu.com/p/ce5384e38657
+
+7、class类: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Classes
+
+8、prototype属性: http://www.w3school.com.cn/jsref/jsref_prototype_array.asp
+
+9、porps: https://blog.csdn.net/hard_working1/article/details/51085325
+
+10、 ES6 展开运算符 Spread operator: https://blog.csdn.net/blog_szhao/article/details/51803165
+
+11、 es6语法: http://es6.ruanyifeng.com/#docs/object
+
+12、 实现限制文字显示多行，多余的用...代替: https://blog.csdn.net/cyj_sky/article/details/52787050
+
+13、忘记mysql密码：https://www.cnblogs.com/imxiu/p/4680979.html
+
+14、开发 react 应用最好用的脚手架 create-react-app:https://blog.csdn.net/qtfying/article/details/78665664
+
+15、小程序案例： https://blog.csdn.net/NAMECZ/article/details/79454347
+
+16、thinkPHP5: https://www.kancloud.cn/thinkphp/thinkphp5_quickstart/179234
+		https://www.kancloud.cn/manual/thinkphp5_1/354081
+
+17、bootbox.js: http://bootboxjs.com/documentation.html
+
+18、PHP中=>和->以及::的用法: http://www.php.cn/php-weizijiaocheng-378631.html
+
+19、 React Router v4 版本学习指南: https://blog.csdn.net/shenlei19911210/article/details/78413460
+				http://react-guide.github.io/react-router-cn/docs/Introduction.html
+
+20、window.clearInterval与window.setInterval的用法: https://www.cnblogs.com/liences/archive/2011/11/25/2262883.html
+
+21、移动端项目如何在手机上查看效果（通过tomcat）: https://blog.csdn.net/weixin_41634608/article/details/84570049
+
+22、高德地图插件： https://blog.csdn.net/LN_Prince_AngellLove/article/details/79390068?utm_source=blogxgwz0
+
+23、移动端开发遇到的坑： https://www.cnblogs.com/baihuaxiu/p/6654496.html
+
+24、 省市区json数据： https://blog.csdn.net/jiangxuqaz/article/details/80264085
+
+25、 tomcat： https://www.cnblogs.com/jingmoxukong/p/8258837.html?utm_source=gold_browser_extension
+
+26、react 移动端适配：https://segmentfault.com/a/1190000016779099
+
+27、不可点击状态： cursor: not-allowed;
+云顶山搭乘路线：http://xm.bendibao.com/tour/2015714/48138.shtm
+
+28、JavaScript 复杂判断的更优雅写法: https://blog.csdn.net/VhWfR2u02Q/article/details/84001215
+
+30、一些‘优雅’的js写法： https://blog.csdn.net/Creabine/article/details/52813686
+				https://blog.csdn.net/liuhaozcx/article/details/22382733
+
+31、布局：https://www.cnblogs.com/yanayana/p/7066948.html
+
+33、判断点是否在多边形内: https://blog.csdn.net/JustWith/article/details/82591351w
+
+34、npm 更新:https://www.cnblogs.com/lxg0/p/8072890.html
+
+35、js学习：http://www.ruanyifeng.com/blog/javascript/
+
+36、高德地图判断点是否在浏览器可视窗内:https://www.cnblogs.com/amor17/p/10396673.html
+
+37、TotoiseSVN的基本使用方法 :https://jingyan.baidu.com/article/6c67b1d6f524d52787bb1ef3.html
+
+
+39、java学习网站：http://baijiahao.baidu.com/s?id=1594116816484588353&wfr=spider&for=pc
+		  https://www.cnblogs.com/baiyangyuanzi/p/6834477.html
+
+40、前端学习：https://www.jianshu.com/p/ed50ee3889d4
+
+41、前端常用方法： https://blog.csdn.net/qq_38267287/article/details/81196439?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+
+42、几种页面布局区别：https://www.jianshu.com/p/3400e718de9b；
+
+43、博客网：https://www.cnblogs.com/moqiutao/p/4843437.html
+
+44、vue-admin-template 点击login，报错---405
+    答：	main.js 中有这样一个判断
+	if (process.env.NODE_ENV === 'development') {
+		mockXHR()
+	}
+	这个判断是生产环境启用 mock，把 production 改为 development 就行了
+
+45、兼容ie9： https://my.oschina.net/wwh/blog/1616237
+
+46、SQL语句报错---右括号缺失: https://blog.csdn.net/xuemoyao/article/details/50557812
+
+47、页面模板： http://www.bootstrapmb.com/item/5015/preview
+
+48、java：https://www.liaoxuefeng.com/wiki/1252599548343744/1260454548196032
+
+49、jq插件特效: http://www.jq22.com/
+
+50、前后端分离后，tomcat服务器部署和发布：https://blog.csdn.net/mengmeng2222222/article/details/102851027
+
+51、vue 动态创建form表单：https://www.vue-js.com/topic/5f894f404590fe0031e59237
+
+52、三个穿梭框互相传送数据：https://github.com/Hz-Raigor/transfer-element/blob/master/src/components/test/transfer-panel.vue
+
+53、ElementUI el-table 的 formatter 和 scope template 不能同时存在问题
+       解决办法：https://www.cnblogs.com/puerile/archive/2004/01/13/11898086.html（备注：使用filters过滤器）
+
+54、element-ui 表格分页，保留上一页勾选的状态：https://www.cnblogs.com/steamed-twisted-roll/p/9629681.html
+
+55、vue 树表格无法全选：https://www.cnblogs.com/hurenjie/p/14007558.html
+
+56、浅谈oracle数据库索引：https://blog.csdn.net/zdp072/article/details/44203837
+		https://www.cnblogs.com/alpf/p/11045010.html
+											
+57、问题--后台返回数据有null值，需判断后，赋值为[]或‘’，不然报cannot read property 'length' of null
+	
+58、问题：node_modules 无法git提交
+        解决：在gitIgnore文件里设置，加#注释node_modules/ ,即可上传至git
+
+59、问题：执行npm run dev时，报错 now treat it as {parser: "babel"}
+        解决： 在node_modules\vue-loader\lib\temlate-compiler\index.js ,将{parser: "babylon"} 换成 {parser: "babel"}
+
+60、问题： 入门学习Linux常用必会60个命令实例详解 Linux必学的60个命令
+       地址：https://blog.csdn.net/ww130929/article/details/69788517
+
+61、git安装教程地址： https://blog.csdn.net/sanxd/article/details/82624127
+	git教程： https://www.liaoxuefeng.com/wiki/896043488029600/897013573512192
+
+62、查看电脑端口占用：cmd ---> 输入指令netstat -ant
+
+63、vue input---输入值就触发时间： @input
+
+64、element-ui 表单 DateTimePicker 时间范围的校验规则
+	rules: {time: [{type: 'array', required: true, message: '选择日期', trigger: 'change'}]}
+
+65、vue 多层传值，中间组件，值改变，导致孙组件即使改变值，父组件值不变
+	解决方案： 中间组件赋值时，格式Object.assign(传参，改变值）
+
+66、问题：祖组件提交，校验孙组件表单
+        方案：this.$refs['form'].方法，逐级找到孙组件的校验方法，由于this.$refs[孙表单ref名].validate((valid)=>{}),
+	返回的是promise值，故在每个组件的传递方法，使用async/await
+
+67、金融项目，设计金额计算使用js-big-decimal插件
+	
